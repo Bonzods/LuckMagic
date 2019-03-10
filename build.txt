@@ -1,0 +1,3 @@
+author = PorciniTheTruffle
+version = 0.1
+displayName = Luck Magic
